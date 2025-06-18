@@ -81,7 +81,7 @@ public class practice1 {
 		
 		
 
-		//driver.close();
+		
 	}
 
 }
